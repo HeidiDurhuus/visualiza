@@ -1,0 +1,18 @@
+/* CSS declarations go here */
+#visjs{
+	height:500px;
+  border: 1px solid lightgray;
+}
+
+.companion_color {
+  background-color: rgb(9, 172, 45);
+}
+.incompatible_color{
+  background-color: rgb(242, 90, 94);
+}
+.node_has_edges_color{
+  background-color: rgb(192, 250, 195);
+}
+.node_no_edges_color{
+  background-color: rgb(212, 208, 208);
+}

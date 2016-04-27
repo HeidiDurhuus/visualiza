@@ -1,0 +1,1488 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<CompanionPlants>
+  <Plants>
+    <PlantID>1</PlantID>
+    <Plant>Amaranth</Plant>
+    <Companions>Corn, Tomato, Onion, Potato, Strawberry</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Trap for leaf miners. Attracts Ground beetle which preys on slugs, snail, cutworm and cabbage-root maggot.</Benefits>
+    <Type>Annual</Type>
+    <PlantPic>Amaranth.jpg</PlantPic>
+     <ScientificName>Amaranthus caudatus</ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Allium</Plant>
+    <Companions>Rose, Carrot, Tomato</Companions>
+    <Incompatible>Peas, Beans, Parsley</Incompatible>
+    <Benefits>
+            Repels aphids, weevils, carrot flies, moles, fruit tree borers;
+            Controls rust flies and some nematodes; protects tomatoes against red spiders.
+            Protects roses from black spot, mildew and aphids.
+    </Benefits>
+    <Type>Perennial</Type>
+    <PlantID>2</PlantID>
+    <PlantPic>Allium.jpg</PlantPic>
+      <ScientificName>Allium flavum</ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Foxglove</Plant>
+    <Companions>Apple, Potato, Tomato</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Can be lethally poisonous from ingesting any part.</Benefits>
+    <Type>Perennial</Type>
+    <PlantID>3</PlantID>
+    <PlantPic>Foxglove.jpg</PlantPic>
+      <ScientificName>Digitalis purpurea</ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Anise</Plant>
+    <Companions>Coriander, Broccoli, Various Plants</Companions>
+    <Incompatible>Carrot, Rue</Incompatible>
+    <Benefits>
+            Licorice flavored herb, good host for predatory wasps which prey on aphids and it is also said to repel aphids.
+            Deters pests from broccoli by camouflaging their odor. Depending upon your plans Anise is supposed to increase the essential oil production in basil.
+        </Benefits>
+    <Type>Annual</Type>
+    <PlantID>4</PlantID>
+    <PlantPic>Anise.jpg</PlantPic>
+      <ScientificName>Pimpinella anisum</ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Asparagus</Plant>
+    <Companions>Dill, Coriander, Tomato, Parsley, Basil, Marigold, Comfrey, Strawberry</Companions>
+    <Incompatible>Onion, Garlic, Potato</Incompatible>
+    <Benefits>
+        Marigolds will deter beetles. Plant broad leaved annual vegetables or strawberries between the asparagus rows and they will thrive.
+    </Benefits>
+    <Type>Perennial</Type>
+    <PlantID>5</PlantID>
+    <PlantPic>Asparagus.jpg</PlantPic>
+      <ScientificName>
+          Asparagus officinalis
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Artichoke</Plant>
+    <Companions>Asparagus, Sunflower, Corn, Tarragon</Companions>
+    <Incompatible>Potato</Incompatible>
+      <Benefits>
+          Artichokes' height also can provide sturdy supports for climbing plants and
+          they can provide shade for smaller, more vulnerable plants. Tubers do not make good
+          companions to artichokes as the root systems of both plants inhibits growth against both crops.
+      </Benefits>
+    <Type>Perennial</Type>
+    <PlantID>6</PlantID>
+    <PlantPic>Artichoke.jpg</PlantPic>
+    <ScientificName>
+        Cynara cardunculus
+    </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Basil</Plant>
+    <Companions>Pepper, Tomato, Marigold, Asparagus, Oregano, Petunias</Companions>
+    <Incompatible>Common Rue, Sage, Rosemary</Incompatible>
+    <Benefits>
+            Repels aphids, flies, mosquitos and mites; helps control insect pests such as tomato hornworms, asparagus beetles,
+            and disease. Basil will kill your rosemary. Depending upon your plans Anise is supposed to increase the essential oil production in basil.
+        </Benefits>
+    <Type>Annual</Type>
+    <Stars>3</Stars>
+    <PlantID>7</PlantID>
+    <PlantPic>Basil.jpg</PlantPic>
+      <ScientificName>
+          Ocimum basilicum
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Bee Balm</Plant>
+    <Companions>Tomato, Yarrow, Daisy, Sunflower</Companions>
+    <Incompatible>Mustard</Incompatible>
+    <Benefits>Great for attracting birds, butterflies, and bees. Pretty perennial that tends to get powdery mildew.</Benefits>
+    <Type>Perennial</Type>
+    <PlantID>8</PlantID>
+    <PlantPic>BeeBalm.jpg</PlantPic>
+      <ScientificName>
+          Monarda didyma
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Beets</Plant>
+    <Companions>Bush Beans, Cabbage, Onion, Sage, Lettuce, Kohlrabi, Brassica</Companions>
+    <Incompatible>Runner or pole beans</Incompatible>
+    <Benefits>Good for adding minerals to the soil. The leaves are composed of 25% magnesium making them a valuable addition to the compost pile if you don't care to eat them.</Benefits>
+    <Type>Biennial</Type>
+    <PlantID>9</PlantID>
+    <PlantPic>Beets.jpg</PlantPic>
+      <ScientificName>
+          Beta vulgaris
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Bell Pepper</Plant>
+    <Companions>Tomato, Parsley, Basil, Carrot, Okra</Companions>
+    <Incompatible>Fennel, Kohlrabi</Incompatible>
+    <Benefits>They should also not be grown near apricot trees because a fungus that the pepper is prone to can cause a lot of harm to the apricot tree.</Benefits>
+    <Type>Perennial</Type>
+    <PlantID>10</PlantID>
+    <PlantPic>BellPeppers.jpg</PlantPic>
+      <ScientificName>
+          Capsicum annuum
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Black Walnut</Plant>
+    <Companions></Companions>
+    <Incompatible>Most everything</Incompatible>
+    <Benefits>Black walnut trees inhibit the growth of apples, potato, eggplant, tomato, capsicum, blackberry, petunia.</Benefits>
+    <Type>Perennial</Type>
+    <PlantID>11</PlantID>
+    <PlantPic>BlackWalnut.jpg</PlantPic>
+      <ScientificName>
+          Juglans nigra
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Borage</Plant>
+    <Companions>Tomato, strawberry, fruit orchards, Squash</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>
+        Repels tomato worms. Adds potassium, calcium and other minerals to soil.
+        Attracts honeybees. Borage may benefit any plant it is growing next to via increasing resistance to pests and disease.
+        It also makes a nice mulch for most plants. Borage and strawberries help each other and strawberry farmers
+        always set a few plants in their beds to enhance the fruits flavor and yield.
+        Plant near tomatoes to improve growth and disease resistance.
+        After you have planned this annual once it will self seed. Borage flowers are edible.
+    </Benefits>
+    <Stars>4</Stars>
+    <Type>Annual</Type>
+    <PlantID>12</PlantID>
+    <PlantPic>Borage.jpg</PlantPic>
+      <ScientificName>
+          Borago officinalis
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Brassica\Broccoli</Plant>
+    <Companions>Chamomile, Peppermint, Dill, Sage, Rosemary</Companions>
+    <Incompatible>Mustards, Nightshades, Tomato, Peppers, Strawberry, Beans</Incompatible>
+    <Benefits>
+        Brassicas are a family of species which include broccoli, cabbage, brussel sprouts, kohlrabi, and cauliflower.
+        Need rich soil with plenty of lime to flourish.
+    </Benefits>
+    <Type>Annual</Type>
+    <PlantID>13</PlantID>
+    <PlantPic>Broccoli.jpg</PlantPic>
+      <ScientificName>Brassica oleracea</ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Broad Beans</Plant>
+    <Companions>Corn, Sunflower</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Add nitrogen to soil--which is needed by corn. Bean vines grow up corn stalks, thus anchoring corn more firmly and the vines discourage racoons.</Benefits>
+    <Type>Perennial</Type>
+    <PlantID>14</PlantID>
+    <PlantPic>BroadBeans.jpg</PlantPic>
+      <ScientificName>
+          Vicia faba
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Buckwheat</Plant>
+    <Companions>Various Plants</Companions>
+    <Incompatible>Beans</Incompatible>
+    <Benefits>
+        Accumulates calcium and can be grown as an excellent cover crop. Attracts hoverflies in droves.
+        Do not plant buckwheat as a companion crop with legumes, as its early competitiveness for nutrients.
+    </Benefits>
+    <Type>Annual</Type>
+    <PlantID>15</PlantID>
+    <PlantPic>Buckwheat.jpg</PlantPic>
+      <ScientificName>
+          Fagopyrum esculentum
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Bush Beans</Plant>
+    <Companions>Beets, Cabbage, Carrot, Celery, Corn, Cucumbers, Eggplant, Lettuce, Pea, Radish, Strawberry, Savory, Tansy, Marigold, Potato, Sunflower</Companions>
+    <Incompatible>Onion, Buckwheat</Incompatible>
+    <Benefits>Encourages growth of companion plant. Adds nitrogen to the soil. Green beans protect eggplant from the Colorado potato beetle.</Benefits>
+    <Type>Annual</Type>
+    <PlantID>16</PlantID>
+    <PlantPic>BushBeans.jpg</PlantPic>
+      <ScientificName></ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Cabbage Family</Plant>
+    <Companions>Bush Beans, Beets, Celery, Onion, All Strong Herbs, Marigold, Nasturtium</Companions>
+    <Incompatible>Strawberry, Tomato, Pole Beans, Mustard, Peppers</Incompatible>
+    <Benefits>Rosemary repels cabbage flies, geraniums trap cabbage worms, same general companion profile as all brassica.</Benefits>
+    <Type>Biennial</Type>
+    <PlantID>17</PlantID>
+    <PlantPic>Cabbage.jpg</PlantPic>
+      <ScientificName></ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Caraway</Plant>
+    <Companions>Strawberry, Pea</Companions>
+    <Incompatible>Dill, Fennel</Incompatible>
+    <Benefits>
+            Good for loosening compacted soil with its deep roots so it's also compatible next to shallow rooted crops.
+            The flowers attract a number of beneficial insects especially the tiny parasitic wasps.
+        </Benefits>
+    <Type>Annual, Biennial</Type>
+    <PlantID>18</PlantID>
+    <PlantPic>Caraway.jpg</PlantPic>
+      <ScientificName>
+          Carum carvi
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Carrot</Plant>
+    <Companions>Bush Beans, Pole Beans, Lettuce, Onion, Peas, Radish, Tomato, Sage, English Peas, Rosemary, Flax</Companions>
+    <Incompatible>Dill, Parsnips</Incompatible>
+      <Benefits>Tomatoes may stunt carrots' growth.</Benefits>
+    <Type>Biennial</Type>
+    <PlantID>19</PlantID>
+    <PlantPic>Carrots.jpg</PlantPic>
+      <ScientificName>
+          Daucus carota
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Castor Bean</Plant>
+    <Companions>Most Vegetables</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Repels moles and plant lice.  Note: All parts of castor beans are poisonous.</Benefits>
+    <Type>Annual</Type>
+    <PlantID>20</PlantID>
+    <PlantPic>CastorBean.jpg</PlantPic>
+      <ScientificName>
+          Ricinus communis
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Catnip</Plant>
+    <Companions>Eggplant, Beet, Pumpkin, Squash, Hyssop</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>
+            Fresh catnip steeped in water and sprinkled on plants will drive away flea beetles.
+            Deters flea beetles, aphids, Japanese beetles, squash bugs, ants and weevils, and mice.
+            Helps distract cats from rest of the garden.
+        </Benefits>
+    <Type>Perennial</Type>
+    <Stars>3</Stars>
+    <PlantID>21</PlantID>
+    <PlantPic>Catnip.jpg</PlantPic>
+      <ScientificName>
+          Nepeta cataria
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Celery</Plant>
+    <Companions>Bush Beans, Cabbage, Onion, Spinach, Tomato, Leek, Brassica, Nasturtium</Companions>
+    <Incompatible>Corn, Potato</Incompatible>
+    <Benefits>Improves growth of companion plants. Repels white cabbage butterflies.</Benefits>
+    <Type>Biennial</Type>
+    <PlantID>22</PlantID>
+    <PlantPic>Celery.jpg</PlantPic>
+      <ScientificName>
+          Apium graveolens
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Chamomile</Plant>
+    <Companions>Cabbage, Onion, Cucumber</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>
+            Improves growth and flavor--but plant only one plant every 150 feet or so. Growing chamomile of any type is considered a tonic for anything you grow in the garden.
+            Host to hoverflies and wasps. Growing near herbs will increase their oil production.
+        </Benefits>
+    <Type>Annual, Perennial</Type>
+    <Stars>4</Stars>
+    <PlantID>23</PlantID>
+    <PlantPic>Chamomile.jpg</PlantPic>
+      <ScientificName>Matricaria recutita</ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Chards</Plant>
+    <Companions>Beans, Cabbage, Onion</Companions>
+    <Incompatible>Melon, Corn, Cucumber</Incompatible>
+    <Type>Perennial</Type>
+    <PlantID>25</PlantID>
+      <Benefits>
+          Can be problematic with some herbs that need high nutrition. Maintains ground humidity and attracting beneficial insects.
+      </Benefits>
+    <PlantPic>Chards.jpg</PlantPic>
+      <ScientificName></ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Chervil</Plant>
+    <Companions>Radish, Lettuce, Broccoli</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Improves growth and flavor.</Benefits>
+    <Type>Perennial</Type>
+    <PlantID>26</PlantID>
+    <PlantPic>Chervil.jpg</PlantPic>
+      <ScientificName>
+          Anthriscus cerefolium
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Chives</Plant>
+    <Companions>Rose, Carrot, Tomato, Apples, Broccoli, Cabbage, Beet, Mustard</Companions>
+    <Incompatible>Peas, Beans, Parsley, Asparagus</Incompatible>
+    <Benefits>Improves growth and flavor.</Benefits>
+    <Type>Perennial</Type>
+    <PlantID>27</PlantID>
+    <PlantPic>Chives.jpg</PlantPic>
+      <ScientificName>
+          Allium schoenoprasum
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Chrysanthemums</Plant>
+    <Companions>Various Plants</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>
+            Kills root nematodes.  White flowering chrysanthemums repel Japanese beetles.
+            Repel pest insects from nearby crops and ornamental plants (aphids, bed bugs, leafhoppers, spider mites, harlequin bugs, ticks, pickleworms and imported cabbage worms)
+        </Benefits>
+    <Type>Annual, Perennial</Type>
+    <Stars>3</Stars>
+    <PlantID>28</PlantID>
+    <PlantPic>Chrysanthemums.jpg</PlantPic>
+      <ScientificName>Chrysanthemum indicum</ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Comfrey</Plant>
+    <Companions>Avocado, Asparagus</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Good trap crop for slugs.</Benefits>
+    <Type>Perennial</Type>
+    <PlantID>30</PlantID>
+    <PlantPic>Comfrey.jpg</PlantPic>
+      <ScientificName>Symphytum x uplandicum</ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Coriander / Cilantro</Plant>
+    <Companions>Various Plants</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Repels aphids, spider mites, and potato beetle. Attracts bees.</Benefits>
+    <Type>Annual, Perennial</Type>
+    <PlantID>31</PlantID>
+    <PlantPic>Coriander.jpg</PlantPic>
+      <ScientificName>
+          Coriandrum sativum
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Corn - Maize</Plant>
+    <Companions>Amaranth, Bush Beans, Pole Beans, Cucumber, Melons, Peas, Squash, Irish Potato, English Peas, Pumpkin, Morning Glory, Parsley, Sunflower</Companions>
+    <Incompatible>Tomato, Celery</Incompatible>
+    <Benefits>Used in the "three sisters" technique (maize, squash, and climbing beans) When the maize is 15 cm (6 inches) tall, beans and squash are planted around the maize, alternating between beans and squash</Benefits>
+    <Type>Annual</Type>
+    <PlantID>32</PlantID>
+    <PlantPic>Corn.jpg</PlantPic>
+      <ScientificName>
+          Zea mays
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Costmary</Plant>
+    <Companions>Comfrey, Borage, Geranium, Sage, Nasturtium, Thyme</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>
+        Repels moths.
+        Place costmary behind lower growing herbs but definitely in front of giants such as elecampane.
+    </Benefits>
+    <Type>Perennial</Type>
+    <PlantID>33</PlantID>
+    <PlantPic>Costmary.jpg</PlantPic>
+      <ScientificName>
+          Tanacetum balsamita
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Cucumbers</Plant>
+    <Companions>Bush Beans, Pole Beans, Corn, Lettuce, Onion, Peas, Radish, Marigold, Nasturtium, Savory, Sunflower, English Peas, Dill</Companions>
+    <Incompatible>Sage, Irish Potato</Incompatible>
+    <Benefits>Improves growth. Vines growing with corn help anchor corn and discourage racoons.</Benefits>
+    <Type>Annual</Type>
+    <PlantID>34</PlantID>
+    <PlantPic>Cucumbers.jpg</PlantPic>
+      <ScientificName>
+          Cucumis sativus
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Datura</Plant>
+    <Companions>Various Plants</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Deters Japanese beetles. Note: All parts of the Datura plant are poisonous! It can produce skin irritations in some people.</Benefits>
+    <Type>Annual</Type>
+    <PlantID>35</PlantID>
+    <PlantPic>Datura.jpg</PlantPic>
+      <ScientificName>
+          Datura stramonium
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Dill</Plant>
+    <Companions>Cabbage, Cucumber, Onion, Lettuce, Corn</Companions>
+    <Incompatible>Carrot, Tomato</Incompatible>
+    <Benefits>
+        Improves growth. Draws in many beneficial insects as the umbrella flower heads go to seed.
+        Blossoms attract honeybees, butterflies/caterpillars, Hoverflies, Wasps, Tomato Horn Worms (bad for tomatoes).
+        Repels aphids, spider mites, squash bugs, cabbage looper.
+    </Benefits>
+    <Type>Annual, Perennial</Type>
+    <PlantID>36</PlantID>
+    <PlantPic>Dill.jpg</PlantPic>
+      <ScientificName>Anethum graveolens</ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Eggplant</Plant>
+    <Companions>Bush Beans, Pole Beans, Spinach, Marigold, Tarragon</Companions>
+    <Incompatible></Incompatible>
+    <Type>Perennial</Type>
+    <PlantID>37</PlantID>
+      <Benefits>Avoid planting them in close proximity to peppers, tomatoes and potatoes as they attact common pests.</Benefits>
+    <PlantPic>Eggplant.jpg</PlantPic>
+      <ScientificName>
+          Solanum melongena
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Fennel</Plant>
+    <Companions>Dill</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>
+        Most plants dislike fennel--so plant it away from the vegetable garden. Its foliage and flowers may attract beneficials.
+        Repels fleas, so grow it around dog kennel.
+    </Benefits>
+    <Type>Perennial</Type>
+    <PlantID>38</PlantID>
+    <PlantPic>Fennel.jpg</PlantPic>
+      <ScientificName>
+          Foeniculum vulgare
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Flax</Plant>
+    <Companions>Carrot, Potato</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Flax contains tannin and linseed oils which may offend the Colorado potato bug.</Benefits>
+    <Type>Annual</Type>
+    <PlantID>39</PlantID>
+    <PlantPic>Flax.jpg</PlantPic>
+      <ScientificName>
+          Linum usitatissimum
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Four-O'Clocks</Plant>
+    <Companions></Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Draws Japanese beetles like a magnet which then dine on the foliage. The foliage is pure poison to them! </Benefits>
+    <Type>Annual</Type>
+    <PlantID>40</PlantID>
+    <PlantPic>FourOClocks.jpg</PlantPic>
+      <ScientificName>
+          Mirabilis jalapa
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Raspberry</Plant>
+    <Companions>Marigold, Rue, Tansy</Companions>
+    <Incompatible>Potato, Eggplant, Tomato</Incompatible>
+    <Benefits>Should not follow: eggplant, tomatoes, potatoes, or peppers and other raspberry varieties in the crop rotation.</Benefits>
+    <Type>Perennial</Type>
+    <PlantID>41</PlantID>
+    <PlantPic>Raspberry.jpg</PlantPic>
+      <ScientificName>Subgenus Idaeobatus</ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Garlic</Plant>
+    <Companions>Rose, Carrot, Tomato, Beets, Raspberry</Companions>
+    <Incompatible>Peas, Beans</Incompatible>
+    <Benefits>Repels aphids, weevils, carrot flies, moles, fruit tree borers; Controls rust flies and some nematodes; protects tomatoes against red spiders. Protects roses from black spot, mildew and aphids.</Benefits>
+    <Type>Perennial</Type>
+    <PlantID>42</PlantID>
+    <PlantPic>Garlic.jpg</PlantPic>
+      <ScientificName>
+          Allium sativum
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Geranium</Plant>
+    <Companions>Cabbage, Corn, Grape, Rose, Tomato, Peppers, Eggplant</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Repels cabbage worms, Japanese beetles. Acts as a trap crop.</Benefits>
+    <Type>Annual</Type>
+    <Stars>4</Stars>
+    <PlantID>43</PlantID>
+    <PlantPic>Geranium.jpg</PlantPic>
+      <ScientificName>Geranium dissectum</ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Grapes</Plant>
+    <Companions>Basil, Beans, Peas, Blackberry</Companions>
+    <Incompatible>Radish, Cabbage</Incompatible>
+    <Type>Perennial</Type>
+    <PlantID>44</PlantID>
+    <PlantPic>Grapes.jpg</PlantPic>
+      <ScientificName>Vitis californica</ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Horehound</Plant>
+    <Companions>Tomato, Peppers, Various Plants</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>
+        Use horehound directly as a companion plant. It attracts predatory wasps and flies.
+        It grows where many others fail to thrive and can survive harsh winters.
+        Said to stimulate tomatoes and peppers to produce fruit, improving quality as well as yield.
+        The small white flowers attract many beneficial insects.
+    </Benefits>
+    <Type>Perennial</Type>
+    <Stars>3</Stars>
+    <PlantID>45</PlantID>
+    <PlantPic>Horehound.jpg</PlantPic>
+      <ScientificName>Lamium purpureum</ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Horseradish</Plant>
+    <Companions>Potato</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Encourages growth. May repel Colorado potato beetles and blister beetles.</Benefits>
+    <Type>Perennial</Type>
+    <PlantID>46</PlantID>
+    <PlantPic>Horseradish.gif</PlantPic>
+      <ScientificName>
+          Armoracia rusticana
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Hot Pepper</Plant>
+    <Companions>Onion, Cucumber, Eggplant, Escarole, Tomato, Okra, Swiss Chard, Squash, Basil, Oregano, Parsley, Rosemary, Geranium, Petunia</Companions>
+    <Incompatible>Veans, Kale, Cabbage, Brussel sprouts</Incompatible>
+    <Benefits>Have root exudates that prevent root rot and other Fusarium diseases.</Benefits>
+    <Type>Perennial</Type>
+    <PlantID>47</PlantID>
+    <PlantPic>HotPeppers.jpg</PlantPic>
+      <ScientificName></ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Hyssop</Plant>
+    <Companions>Cabbage, Grape</Companions>
+    <Incompatible>Radish</Incompatible>
+    <Benefits>Improves growth, deters cabbage moth. Hyssop may be the number one preference among bees and some beekeepers rub the hive with it to encourage the bees to keep to their home. It is not as invasive as other members of the mint family making it safer for interplanting.</Benefits>
+    <Type>Annual</Type>
+    <Stars>3</Stars>
+    <PlantID>48</PlantID>
+    <PlantPic>Hyssop.jpg</PlantPic>
+      <ScientificName>Hyssopus officinalis</ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Irish Potato</Plant>
+    <Companions>Beans, Corn, Cabbage, Marigold, Horseradish</Companions>
+    <Incompatible>Pumpkin, Squash, Tomato, Cucumber, Sunflower</Incompatible>
+    <Type>Perennial</Type>
+    <PlantID>49</PlantID>
+    <PlantPic>Potato.jpg</PlantPic>
+      <ScientificName>
+          Solanum tuberosum
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Lamium</Plant>
+    <Companions>Barrenwort, Hosta, Bugleweed, Carex, Bleeding Heart</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Repels potato bugs. A good plant to use for naturalizing, massing or as a ground cover.</Benefits>
+    <Type>Annual, Perennial</Type>
+    <PlantID>50</PlantID>
+    <PlantPic>Lamium.jpg</PlantPic>
+      <ScientificName>Lamium amplexicaule</ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Larkspur</Plant>
+    <Companions>Bush Beans, Cabbage</Companions>
+    <Incompatible>Beets, Carrot, Parsnip, Turnip</Incompatible>
+    <Benefits>Attract Japanese beetles and kills them Larkspur is poisonous to humans!</Benefits>
+    <Type>Perennial</Type>
+    <PlantID>51</PlantID>
+    <PlantPic>Larkspur.jpg</PlantPic>
+      <ScientificName>Delphinium staphisagria</ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Leek</Plant>
+    <Companions>Rose, Carrot, Tomato, Celery, Onion</Companions>
+    <Incompatible>Peas, Beans</Incompatible>
+    <Benefits>Improves growth for celery, onions, and apple trees. Repels carrot flies.</Benefits>
+    <Type>Perennial</Type>
+    <PlantID>52</PlantID>
+    <PlantPic>Leek.jpg</PlantPic>
+      <ScientificName>
+          Allium ampeloprasum var. porrum
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Lemon Balm</Plant>
+    <Companions>Various Plants</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Wards off squash bugs. Plant freely throughout the garden.</Benefits>
+    <Type>Perennial</Type>
+    <Stars>3</Stars>
+    <PlantID>53</PlantID>
+    <PlantPic>LemonBalm.jpg</PlantPic>
+      <ScientificName>
+          Melissa officinalis
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Lettuce</Plant>
+    <Companions>Bush Beans, Pole Beans, Carrot, Cucumber, Onion, Radish, Strawberry</Companions>
+    <Incompatible>Irish Potato, Strong Herbs, Celery, Cabbage, Cress, Parsley</Incompatible>
+    <Benefits>Mints (including hyssop, sage, and various "balms") repel slugs, a bane of lettuce and cabbages.</Benefits>
+    <Type>Annual</Type>
+    <PlantID>54</PlantID>
+    <PlantPic>Lettuce.jpg</PlantPic>
+      <ScientificName>
+          Lactuca sativa
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Lovage</Plant>
+    <Companions>Cucumber, Asparagus, Bean, Beet, Brassica, Onion, Leek, Peas, Potato, Lettuce, Squash, Zucchini, Corn, Tomato</Companions>
+    <Incompatible>Rhubarb, Celery</Incompatible>
+    <Benefits>
+        Like borage and geraniums, lovage is considered a "magic bullet" of companion planting.
+        It improves the flavor and vigor of most plants.
+    </Benefits>
+    <Stars>4</Stars>
+    <Type>Perennial</Type>
+    <PlantID>55</PlantID>
+    <PlantPic>Lovage.jpg</PlantPic>
+      <ScientificName>
+          Levisticum officinale
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Marigold</Plant>
+    <Companions>Tomato, Potato, Strawberry, Rose</Companions>
+    <Incompatible>Cabbage, Beans, Ground Ivy</Incompatible>
+    <Benefits>Encourages growth, deters Mexican bean beetles and other pests. Discourages harmful nematodes, if they are grown for several seasons in the ground in areas that have nematode infestations. Should not be planted near any legume crop due to antibacterial thiophenes exuded by the roots.</Benefits>
+    <Stars>4</Stars>
+    <Type>Annual</Type>
+    <PlantID>56</PlantID>
+    <PlantPic>Marigold.jpg</PlantPic>
+      <ScientificName>Tagetes erecta</ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Marjoram</Plant>
+    <Companions>Various Plants</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Improves the flavor of vegetables and herbs.</Benefits>
+    <Type>Perennial</Type>
+    <Stars>3</Stars>
+    <PlantID>57</PlantID>
+    <PlantPic>Marjoram.gif</PlantPic>
+      <ScientificName>
+          Origanum majorana
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Melons</Plant>
+    <Companions>Corn, Nasturtium, Radish, Pumpkins, Marigold, Oregano</Companions>
+    <Incompatible></Incompatible>
+    <Type>Annual</Type>
+    <PlantID>58</PlantID>
+    <PlantPic>Melons.jpg</PlantPic>
+      <ScientificName></ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Mint</Plant>
+    <Companions>Tomato, Cabbage, Beets</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Improves flavor and growth. Earthworms are quite attracted to mint plantings. Be careful where you plant it as mint is an incredibly invasive perennial. </Benefits>
+    <Type>Perennial</Type>
+    <Stars>3</Stars>
+    <PlantID>59</PlantID>
+    <PlantPic>Mint.jpg</PlantPic>
+      <ScientificName></ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Mustard</Plant>
+    <Companions>Cabbage, Brassica, Radish, Brussel Sprouts, Turnip, Collard, Kohlrabi</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Plant mustard as a trap crop. It attracts numerous insect pests. Remove and destroy it before your main crops can be harmed.</Benefits>
+    <Type>Annual</Type>
+    <PlantID>60</PlantID>
+    <PlantPic>Mustard.jpg</PlantPic>
+      <ScientificName>Brassica juncea L. Czern</ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Nasturtiums</Plant>
+    <Companions>Cucumber, Radish, Squash, Broccoli, Cabbage, other vegetables, fruit trees</Companions>
+    <Incompatible>Cauliflower</Incompatible>
+    <Benefits>
+        Repels aphids, cucumber beetles, whiteflies and squash bugs. Acts as trap crop for aphids.
+        Repels borers near fruit trees. leaves, flowers and seeds are all edible and wonderful in salads.
+    </Benefits>
+    <Type>Annual</Type>
+    <Stars>4</Stars>
+    <PlantID>61</PlantID>
+    <PlantPic>Nasturtiums.jpg</PlantPic>
+      <ScientificName>Tropaeolum majus</ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Onion</Plant>
+    <Companions>Beets, Cabbage, Carrot, Celery, Cucumber, Lettuce, Pepper, Squash, Strawberry, Tomato, Savory, Rose, Chamomile, Cauliflower, Broccoli</Companions>
+    <Incompatible>Bush Beans, Pole Beans, Peas</Incompatible>
+    <Benefits>Repels aphids, weevils, carrot flies, moles, fruit tree borers; Controls rust flies and some nematodes; protects tomatoes against red spiders. Protects roses from black spot, mildew and aphids. Planting chamomile and summer savory with onions improves their flavor. </Benefits>
+    <Type>Perennial</Type>
+    <PlantID>62</PlantID>
+    <PlantPic>Onion.jpg</PlantPic>
+      <ScientificName>
+          Allium cepa
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Oregano</Plant>
+    <Companions>Broccoli, Cabbage, Cucumber, Cauliflower, Brassica, Grape</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Repels cabbage butterfly. Can be used with most crops. Repels cabbage butterflies and cucumber beetles.</Benefits>
+    <Type>Perennial</Type>
+    <Stars>4</Stars>
+    <PlantID>63</PlantID>
+    <PlantPic>Oregano.jpg</PlantPic>
+      <ScientificName>
+          Origanum vulgare
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Parsley</Plant>
+    <Companions>Tomato, Asparagus, Carrot, Rose, Onion, Chive</Companions>
+    <Incompatible>Lettuce, Mint</Incompatible>
+    <Benefits>
+            Deters asparagus beetles.Improves growth. Deters carrot flies and rose beetles. Parsley increases the fragrance of roses when planted around their base.
+            Useful for protecting tomato plants as the wasps that kill tomato hornworms also eat nectar from parsley.
+        </Benefits>
+    <Type>Perennial</Type>
+    <Stars>3</Stars>
+    <PlantID>64</PlantID>
+    <PlantPic>Parsley.jpg</PlantPic>
+      <ScientificName>
+          Petroselinum crispum
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Peanut</Plant>
+    <Companions>Corn, Squash</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Encourages growth of corn and squash.</Benefits>
+    <Type>Perennial</Type>
+    <PlantID>65</PlantID>
+    <PlantPic>Peanuts.jpg</PlantPic>
+      <ScientificName>
+          Arachis hypogaea
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Peas</Plant>
+    <Companions>Bush Beans, Pole Beans, Carrot, Corn, Cucumber, Radish, Turnip, Celery, Chicory, Spinach, Parsley</Companions>
+    <Incompatible>Onion</Incompatible>
+    <Benefits>Adds nitrogen to soil for use by hungry corn plants. Grows well with carrots, turnip, radish, cumcumber, beans and potatoes.</Benefits>
+    <Type>Annual</Type>
+    <PlantID>66</PlantID>
+    <PlantPic>Peas.jpg</PlantPic>
+      <ScientificName>Pisum sativum</ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Pennyroyal</Plant>
+    <Companions>Broccoli, Brussel Sprouts, Cabbage</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Discourages ants, plant lice, cabbage maggots. Note: Highly toxic to cats.</Benefits>
+    <Type>Perennial</Type>
+    <PlantID>67</PlantID>
+    <PlantPic>Pennyroyal.jpg</PlantPic>
+      <ScientificName>
+          Mentha pulegium
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Peppermint</Plant>
+    <Companions>Various Plants</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Repels white cabbage moths, aphids and flea beetles. It is the menthol content in mints that acts as an insect repellant. Attracts Bees.</Benefits>
+    <Type>Perennial</Type>
+    <PlantID>68</PlantID>
+    <PlantPic>Peppermint.jpg</PlantPic>
+      <ScientificName>
+          Mentha × piperita
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Petunias</Plant>
+    <Companions>Tomato, Various Plants</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>They repel the asparagus beetle, leafhoppers, certain aphids, tomato worms, Mexican bean beetles and general garden pests.  Acts as a trap crop.  Plant everywhere.</Benefits>
+    <Stars>4</Stars>
+    <Type>Annual, Perennial</Type>
+    <PlantID>69</PlantID>
+    <PlantPic>Petunias.jpg</PlantPic>
+      <ScientificName>Petunia × hybrida </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Pole Beans</Plant>
+    <Companions>Carrot, Corn, Cucumber, Eggplant, Lettuce, Pea, Radish, Savory, Tansy</Companions>
+    <Incompatible>Beets, Onion, Buckwheat</Incompatible>
+    <Type>Annual</Type>
+    <PlantID>70</PlantID>
+    <PlantPic>PoleBeans.jpg</PlantPic>
+      <ScientificName>
+          Phaseolus coccineus
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Potato</Plant>
+    <Companions>Bush Beans, Cabbage, Carrot, Celery, Flax, Horseradish, Marigold, Peas, Petunia, Onion</Companions>
+    <Incompatible>Cucumber, Kohlrabi, Parsnip, Pumpkin, Rutabaga, Squash, Sunflower, Turnip, Fennel, Tomato</Incompatible>
+    <Type>Perennial</Type>
+    <PlantID>71</PlantID>
+    <PlantPic>Potato.jpg</PlantPic>
+      <ScientificName>
+          Solanum tuberosum
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Pumpkins</Plant>
+    <Companions>Corn, Marigold, Squash, Nasturtium, Oregano</Companions>
+    <Incompatible>Irish Potato</Incompatible>
+    <Type>Annual</Type>
+    <PlantID>72</PlantID>
+    <PlantPic>Pumpkins.jpg</PlantPic>
+      <ScientificName>Cucurbita pepo</ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Pyrethrum</Plant>
+    <Companions>Various Plants</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Repels aphids, leafhoppers, spider mites, harlequin bugs, ticks, pickleworms and imported cabbage worms.</Benefits>
+    <Type>Annual, Perennial</Type>
+    <Stars>3</Stars>
+    <PlantID>73</PlantID>
+    <PlantPic>Pyrethrum.jpg</PlantPic>
+      <ScientificName>C. cinerariifolium </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Radish</Plant>
+    <Companions>Bush Beans, Pole Beans, Carrot, Cucumber, Lettuce, Melons, Peas, Squash, Nasturtium, Chervil, Melons, Parsnip, Spinach, Broccoli</Companions>
+    <Incompatible>Hyssop, Cabbage, Cauliflower, Brussel Sprouts, Turnip</Incompatible>
+    <Benefits>
+        Deters cucumber beetles. Radishes may protect squash from squash borers.
+        Chervil and nasturtium are known to improved growth and flavor of radishes.
+    </Benefits>
+    <Type>Annual, Biennial</Type>
+    <Stars>3</Stars>
+    <PlantID>74</PlantID>
+    <PlantPic>Radish.jpg</PlantPic>
+      <ScientificName>
+          Raphanus sativus
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Rhubarb</Plant>
+    <Companions>Cabbage, Broccoli, Beans, Garlic, Onion, Rose</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>
+        Rhubarb helps deter red spider mites and also protects against black flies.
+    </Benefits>
+    <Type>Perennial</Type>
+    <PlantID>75</PlantID>
+    <PlantPic>Rhubarb.jpg</PlantPic>
+      <ScientificName>
+          Rheum rhabarbarum
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Rosemary</Plant>
+    <Companions>Carrot, Cabbage, Beans, Sage</Companions>
+    <Incompatible>Basil</Incompatible>
+    <Benefits>Repels carrot flies, bean beetles, cabbage moths.</Benefits>
+    <Type>Perennial</Type>
+    <Stars>2</Stars>
+    <PlantID>76</PlantID>
+    <PlantPic>Rosemary.jpg</PlantPic>
+      <ScientificName>
+          Rosmarinus officinalis
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Rue</Plant>
+    <Companions>Rose, Raspberry, Lavender</Companions>
+    <Incompatible>Cucumbers, Cabbage, Basil, Sage</Incompatible>
+    <Benefits>
+        Repels Japanese beetles. Keep it far away from Sweet Basil; plant near roses and
+        raspberries.
+    </Benefits>
+    <Type>Perennial</Type>
+    <PlantID>77</PlantID>
+    <PlantPic>Rue.jpg</PlantPic>
+      <ScientificName>
+          Ruta graveolens
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Sage</Plant>
+    <Companions>Carrot, Broccoli, Cauliflower, Rosemary, Cabbage</Companions>
+    <Incompatible>Cucumber, Rue, Onion</Incompatible>
+    <Benefits>
+        Repels carrot flies, cabbage moths, ticks. Plant with rosemary, cabbage and carrots; keep away from
+        cucumbers. Deters cabbage moth, carrot fly.
+    </Benefits>
+    <Type>Perennial</Type>
+    <Stars>3</Stars>
+    <PlantID>78</PlantID>
+    <PlantPic>Sage.jpg</PlantPic>
+      <ScientificName>Salvia officinalis</ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Savory</Plant>
+    <Companions>Green beans, Onion</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Improves growth. Attracts Bees. Deters bean beetles.</Benefits>
+    <Type>Annual, Perennial</Type>
+    <PlantID>79</PlantID>
+    <PlantPic>Savory.jpg</PlantPic>
+      <ScientificName>
+          Satureja hortensis
+        </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Shallot</Plant>
+    <Companions>Rose, Carrot, Tomato</Companions>
+    <Incompatible>Peas, Beans</Incompatible>
+    <Benefits>
+        Repels aphids, weevils, carrot flies, moles, fruit tree borers.
+        Controls rust flies and some nematodes.
+        Protects tomatoes against red spiders. Protects roses from black spot, mildew and aphids.
+    </Benefits>
+    <Type>Perennial</Type>
+    <PlantID>80</PlantID>
+    <PlantPic>Shallot.jpg</PlantPic>
+      <ScientificName>
+          Allium cepa var. aggregatum
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Snap Beans</Plant>
+    <Companions>Corn</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Enhances growth of corn.</Benefits>
+    <Type>Annual</Type>
+    <PlantID>81</PlantID>
+    <PlantPic>SnapBeans.jpg</PlantPic>
+      <ScientificName></ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Southernwood</Plant>
+    <Companions>Cabbage, Lavender</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>
+        Wonderful lemony scent. Doesn't like fertilizer. Repels Cabbage loopers, Flea Bettles, Cabbageworms, Moths.
+        Plant here and there in garden; companion to cabbage; improves Growth and flavor, deters cabbage moth.
+    </Benefits>
+    <Type>Perennial</Type>
+    <PlantID>82</PlantID>
+    <PlantPic>Southernwood.jpg</PlantPic>
+      <ScientificName>
+          Artemisia abrotanum
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Soybean</Plant>
+    <Companions>Corn</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Add nitrogen to the soil</Benefits>
+    <Type>Annual, Perennial</Type>
+    <PlantID>83</PlantID>
+    <PlantPic>Soybeans.jpg</PlantPic>
+      <ScientificName>
+          Glycine max
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Spearmint</Plant>
+    <Companions>Cabbage, Tomato,</Companions>
+    <Incompatible>Parsley</Incompatible>
+    <Benefits>Deters ants, aphids.</Benefits>
+    <Type>Perennial</Type>
+    <Stars>3</Stars>
+    <PlantID>84</PlantID>
+    <PlantPic>Spearmint.jpg</PlantPic>
+      <ScientificName>
+          Mentha spicata
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Spinach</Plant>
+    <Companions>Cabbage, Celery, Eggplant, Cauliflower, Strawberry, Faba Beans</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>There are no known bad companions for spinach.</Benefits>
+    <Type>Annual</Type>
+    <PlantID>85</PlantID>
+    <PlantPic>Spinach.jpg</PlantPic>
+      <ScientificName>
+          Spinacia oleracea
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Squash</Plant>
+    <Companions>Borage, Corn, Onion, Radish, Nasturtium, Marigold, Melons, Oregano</Companions>
+    <Incompatible>Irish Potato</Incompatible>
+    <Benefits>
+        Borage will help deter worms and impove growth and flavor.
+        Radishes will prevent insects on the squash plant.
+    </Benefits>
+    <Type>Annual</Type>
+    <PlantID>86</PlantID>
+    <PlantPic>Squash.jpg</PlantPic>
+      <ScientificName></ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Strawberry</Plant>
+    <Companions>Bush Beans, Lettuce, Onion, Spinach, Borage, Thyme</Companions>
+    <Incompatible>Cabbage</Incompatible>
+    <Type>Perennial</Type>
+    <PlantID>87</PlantID>
+    <PlantPic>Strawberry.jpg</PlantPic>
+      <ScientificName>
+          Fragaria × ananassa
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Sunflower</Plant>
+    <Companions>Corn, Artichoke, Broad Beans, Bush Beans, Cucumber, Squash</Companions>
+    <Incompatible>Potato</Incompatible>
+    <Benefits>
+        Attracts Humming birds and bees. The bright blossoms draw ladybugs and ants, both of which feed on aphids.
+        Create shade for less heat-tolerant plants.
+    </Benefits>
+    <Type>Annual, Perennial</Type>
+    <PlantID>88</PlantID>
+    <PlantPic>Sunflower.jpg</PlantPic>
+      <ScientificName>
+          Helianthus annuus
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Sweet Alyssum</Plant>
+    <Companions>Various Plants</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Direct seed or set out starts of sweet alyssum near plants that have been attacked by aphids in the past. Alyssum flowers attract hoverflies whose larva devour aphids.</Benefits>
+    <Type>Perennial</Type>
+    <Stars>3</Stars>
+    <PlantID>89</PlantID>
+    <PlantPic>SweetAlyssum.jpg</PlantPic>
+      <ScientificName>
+          Lobularia maritima
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Escarole</Plant>
+    <Companions>Sweet Pepper, Hot Pepper</Companions>
+    <Incompatible></Incompatible>
+    <Benefits></Benefits>
+    <Type>Annual</Type>
+    <PlantID>90</PlantID>
+    <PlantPic>Escarole.jpg</PlantPic>
+      <ScientificName>
+          Cichorium endivia
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Sweet Pepper</Plant>
+    <Companions>Basil, Okra, Cucumber, Eggplant, Escarole, Tomato, Chard , Squash, Oregano, Parsley, Rosemary</Companions>
+    <Incompatible>Apricot Trees </Incompatible>
+    <Benefits>
+            Improves growth. Do not plant near apricot trees because a fungus that the pepper is prone to can cause a lot of harm to the apricot tree.
+        </Benefits>
+    <Type>Annual, Perennial</Type>
+    <PlantID>91</PlantID>
+    <PlantPic>SweetPepper.jpg</PlantPic>
+      <ScientificName></ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Tansy</Plant>
+    <Companions>Cucumber, Squash, Rose, Grape, Raspberry, Blackberry</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Deters flying insects, striped cucumber beetles, ants, flies, squash bugs and Japanese beetles. Note: attracts cabbageworms. Toxic to many animals.</Benefits>
+    <Type>Perennial</Type>
+    <Stars>2</Stars>
+    <PlantID>92</PlantID>
+    <PlantPic>Tansy.jpg</PlantPic>
+      <ScientificName>
+          Tanacetum vulgare
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Tarragon</Plant>
+    <Companions>Various Plants, Eggplant</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Plant throughout the garden, not many pests like this one. Recommended to enhance growth and flavor of vegetables.</Benefits>
+    <Stars>4</Stars>
+    <Type>Perennial</Type>
+    <PlantID>93</PlantID>
+    <PlantPic>Tarragon.jpg</PlantPic>
+      <ScientificName>
+          Artemisia dracunculus
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Thyme</Plant>
+    <Companions>Cabbage, Broccoli, Kale, Egg-Plant, Potato, Tomato</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Controls flea beetles, cabbage maggots, imported cabbageworms and white cabbage butterflies.</Benefits>
+    <Type>Perennial</Type>
+    <Stars>3</Stars>
+    <PlantID>94</PlantID>
+    <PlantPic>Thyme.jpg</PlantPic>
+      <ScientificName>Thymus pulegioides</ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Tomato</Plant>
+    <Companions>Carrot, Celery, Onion, Mint, Rose, Nasturtium, Marigold, Asparagus, Parsley, Cucumber</Companions>
+    <Incompatible>Corn, Fennel, Cabbage, Lupin</Incompatible>
+    <Benefits>Protects roses from black spot. May stunt carrot growth.</Benefits>
+    <Type>Annual</Type>
+    <PlantID>95</PlantID>
+    <PlantPic>Tomato.jpg</PlantPic>
+      <ScientificName>
+          Solanum lycopersicum
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Turnip</Plant>
+    <Companions>English Peas</Companions>
+    <Incompatible>Potato, Radish</Incompatible>
+    <Benefits></Benefits>
+    <Type>Annual</Type>
+    <PlantID>96</PlantID>
+    <PlantPic>Turnip.jpg</PlantPic>
+      <ScientificName>
+          Brassica rapa var. rapa
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Wormwood</Plant>
+    <Companions>Various Plants</Companions>
+    <Incompatible>Peas, Beans</Incompatible>
+    <Benefits>Deters black flea beetles, malaria mosquitos, cabbage worm butterflies. Keeps animals away when planted as a border.</Benefits>
+    <Type>Annual</Type>
+    <Stars>3</Stars>
+    <PlantID>97</PlantID>
+    <PlantPic>Wormwood.jpg</PlantPic>
+      <ScientificName>Artemisia absinthium</ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Yarrow</Plant>
+    <Companions>Various Plants</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Insect repelling qualities.  Plant along borders, near paths, near aromatic herbs; enhances essential oil production of herbs. Improves soil quality. Leaves make great compost.</Benefits>
+    <Type>Perennial</Type>
+    <Stars>4</Stars>
+    <PlantID>98</PlantID>
+    <PlantPic>Yarrow.jpg</PlantPic>
+      <ScientificName>
+          Achillea millefolium
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Lamb's Quarters</Plant>
+    <Companions>Corn</Companions>
+    <Incompatible>Beet</Incompatible>
+    <Benefits>
+        Acts as a trap crop for leaf miners. Host for beet leafhopper insect. Should be allowed to grow in moderate
+        amounts in the garden, especially in corn
+    </Benefits>
+    <Type>Perennial</Type>
+    <PlantID>99</PlantID>
+    <PlantPic>LambsQuarters.jpg</PlantPic>
+      <ScientificName>Chenopodium polyspermum</ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Valerian</Plant>
+    <Companions>Various Plants</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>
+        Adds phosphorus. Good anywhere in garden.
+        Good in compost heaps and good for earthworms.
+    </Benefits>
+    <Type>Perennial</Type>
+    <Stars>3</Stars>
+    <PlantID>100</PlantID>
+    <PlantPic>Valerian.jpg</PlantPic>
+      <ScientificName>
+          Valeriana officinalis
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Gourds</Plant>
+    <Companions>Radish, Catnip, Broccoli, Tansy, Dill, Marigold</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Gourds can develop bacterial wilt. Cucumber Beetles, Squash bugs, Squash vine borer, Cut worms, and Aphids are all possible pests.</Benefits>
+    <Type>Annual</Type>
+    <PlantID>101</PlantID>
+    <PlantPic>Gourds.jpg</PlantPic>
+      <ScientificName></ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Daisy</Plant>
+    <Companions>Various Plants</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Attracts beneficial insects.</Benefits>
+    <Type>Perennial</Type>
+    <PlantID>102</PlantID>
+    <PlantPic>Daisy.jpg</PlantPic>
+      <ScientificName></ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Pansy</Plant>
+    <Companions>Rye</Companions>
+    <Incompatible>Wheat</Incompatible>
+    <Benefits>Rye influences 100% germination of Pansy.</Benefits>
+    <Type>Annual</Type>
+    <PlantID>103</PlantID>
+    <PlantPic>Pansy.jpg</PlantPic>
+      <ScientificName>Viola tricolor hortensis</ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Parsnip</Plant>
+    <Companions>Buckwheat, Catnip, Tansy, Radish</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Attracts a variety of predatory insects. The root also contains Myristricin, which is toxic to fuit flies, house flies, red spider mite, pea aphids.</Benefits>
+    <Type>Biennial</Type>
+    <PlantID>104</PlantID>
+    <PlantPic>Parsnip.jpg</PlantPic>
+      <ScientificName>
+          Pastinaca sativa
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Mimosa</Plant>
+    <Companions>Tomato, peppers</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Used as a natural ground cover in agriculture.</Benefits>
+    <Type>Annual, Perennial</Type>
+    <PlantID>105</PlantID>
+    <PlantPic>Mimosa.jpg</PlantPic>
+      <ScientificName></ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Clover</Plant>
+    <Companions>Grape, Apple Trees, Brassica , Corn, Cucumber, Squash, Melons</Companions>
+    <Incompatible>Tomato, Pepper, Eggplant</Incompatible>
+    <Benefits>Fertilizes the soil for neighboring plants. Attracts many beneficials. Useful planted around apple trees to attract predators of the woolly aphid.</Benefits>
+    <Type>Annual, Perennial, Biennial</Type>
+    <PlantID>106</PlantID>
+    <PlantPic>Clover.jpg</PlantPic>
+      <ScientificName>Trifolium repens </ScientificName>
+  </Plants>
+  <Plants>
+      <Plant>Crow Garlic</Plant>
+      <Companions>Fruit trees, Tomato, Pepper, Potato, Cabbage, Broccoli, Kohlrabi, Carrot</Companions>
+      <Incompatible>Beans, Peas, Parsley</Incompatible>
+      <Benefits>Repels slugs, aphids, carrot fly, cabbage worms and can be eaten like chives.</Benefits>
+      <Type>Perennial</Type>
+      <PlantID>107</PlantID>
+      <PlantPic>CrowGarlic.gif</PlantPic>
+      <ScientificName>
+          Allium vineale
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Ground Ivy</Plant>
+    <Companions>Tomato, Pepper, Cucumber, Broccoli, Brussel sprouts, Cauliflower</Companions>
+    <Incompatible>Marigold</Incompatible>
+    <Benefits>Repels cabbage worms, cucumber worms and beetles, tomato horn worms. Makes a good ground cover.</Benefits>
+    <Type>Perennial</Type>
+    <PlantID>108</PlantID>
+    <PlantPic>GroundIvy.jpg</PlantPic>
+      <ScientificName>
+          Glechoma hederacea
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Kohlrabi</Plant>
+    <Companions>Beet, Onion, Oregano, Mint, Sage, Thyme</Companions>
+    <Incompatible>Beans</Incompatible>
+    <Benefits>Beets and kohlrabi grow perfectly together</Benefits>
+    <Type>Biennial</Type>
+    <PlantID>109</PlantID>
+    <PlantPic>Kohlrabi.jpg</PlantPic>
+      <ScientificName>Brassica oleracea</ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Morning Glory</Plant>
+    <Companions>Corn</Companions>
+    <Incompatible>Apricot</Incompatible>
+    <Benefits>Attract hoverflies and Ladybugs. Fast growing vines provides cover.</Benefits>
+    <Type>Annual</Type>
+    <PlantID>110</PlantID>
+    <PlantPic>MorningGlory.jpg</PlantPic>
+      <ScientificName>Ipomoea nil</ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Lavender</Plant>
+    <Companions>Cabbage, Rose, Various Plants</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Attract beneficial insects. Repels moths and fleas. Discourages mice, moths and ticks.</Benefits>
+    <Type>Perennial</Type>
+    <PlantID>111</PlantID>
+    <PlantPic>Lavender.jpg</PlantPic>
+      <ScientificName>
+          Lavandula spica
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Okra</Plant>
+    <Companions>Cucumber, Basil, Melon, Peas, Lettuce, Eggplant</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>Provides shade for lettuce.</Benefits>
+    <Type>Annual</Type>
+    <PlantID>112</PlantID>
+    <PlantPic>Okra.jpg</PlantPic>
+      <ScientificName>
+          Abelmoschus esculentus
+      </ScientificName>
+  </Plants>
+  <Plants>
+    <Plant>Zinnia</Plant>
+    <Companions>Various Plants</Companions>
+    <Incompatible></Incompatible>
+    <Benefits>
+        Attract wasps, hoverflies, and humming birds. Plant freely throughout the garden.
+        Zinnia is notorious as a target for mold and fungal growths.
+    </Benefits>
+    <Type>Annual</Type>
+    <Stars>3</Stars>
+    <PlantID>113</PlantID>
+    <PlantPic>Zinnia.jpg</PlantPic>
+      <ScientificName>Zinnia × hybrida</ScientificName>
+  </Plants>
+    <Plants>
+        <Plant>Angelica</Plant>
+        <Companions>Hellebore, Ferns, Epimediums</Companions>
+        <Incompatible>Dill</Incompatible>
+        <Benefits>
+            Attract honeybees, wasps, and ladybugs. Angelica is really a short-lived perennial and dies after its flowering year.
+        </Benefits>
+        <Type>Perennial</Type>
+        <Stars></Stars>
+        <PlantID>114</PlantID>
+        <PlantPic>Angelica.jpg</PlantPic>
+        <ScientificName>Angelica archangelica</ScientificName>
+    </Plants>
+    <Plants>
+        <Plant>Burdock</Plant>
+        <Companions>
+            Brussel Sprouts, Bean, Celery, Dill, Hyssop, Mint, Nasturtium, Sage
+        </Companions>
+        <Incompatible>Potato</Incompatible>
+        <Benefits>
+            Do not allow to go to seed.  Burdock will spread fast and wide.
+        </Benefits>
+        <Type>Perennial</Type>
+        <Stars></Stars>
+        <PlantID>115</PlantID>
+        <PlantPic>Burdock.jpg</PlantPic>
+        <ScientificName>Arctium lappa</ScientificName>
+    </Plants>
+    <Plants>
+        <Plant>Blackberry</Plant>
+        <Companions>
+            Tansy, Rue, Wormwood, Nasturtium, Grape
+        </Companions>
+        <Incompatible></Incompatible>
+        <Benefits>
+            Blackberries grows very quickly and can take over if not pruned frequently.
+        </Benefits>
+        <Type>Perennial</Type>
+        <Stars></Stars>
+        <PlantID>116</PlantID>
+        <PlantPic>Blackberry.jpg</PlantPic>
+        <ScientificName>
+            Rubus fruticosus
+        </ScientificName>
+    </Plants>
+    <Plants>
+        <Plant>Zucchini</Plant>
+        <Companions>
+            Basil, Beans, Onion, Corn, Mint, Radish, Nasturtium
+        </Companions>
+        <Incompatible>Potato, Cucumber</Incompatible>
+        <Benefits>
+            Zucchini will thrive when planted with nasturtium, corn or marigold.
+            Nasturtiums will distract the pests from attacking your zucchini and other squash plants.
+        </Benefits>
+        <Type>Annual</Type>
+        <Stars></Stars>
+        <PlantID>117</PlantID>
+        <PlantPic>Zucchini.jpg</PlantPic>
+        <ScientificName>
+            Cucurbita pepo
+        </ScientificName>
+    </Plants>
+    <Plants>
+        <Plant>Rose</Plant>
+        <Companions>
+            Allium, Chive, Garlic, Geranium, Lavender, Leek, Marigold, Onion, Parsley, Rhubarb, Rue, Shallot, Tansy, Tomato
+        </Companions>
+        <Incompatible></Incompatible>
+        <Benefits>
+            Tomatoes and Allium protects roses from black spot while parsley deters rose beetles. Lavender makes a great cover for mature roses' bare legs.
+        </Benefits>
+        <Type>Perennial</Type>
+        <Stars></Stars>
+        <PlantID>118</PlantID>
+        <PlantPic>Roses.jpg</PlantPic>
+        <ScientificName>
+        </ScientificName>
+    </Plants>
+    <Plants>
+        <Plant>Burnet</Plant>
+        <Companions>
+            Thyme, Mint
+        </Companions>
+        <Incompatible></Incompatible>
+        <Benefits>
+            Salad burnet has the flavor described as light cucumber and is considered interchangeable with mint in some recipes.
+        </Benefits>
+        <Type>Perennial</Type>
+        <Stars></Stars>
+        <PlantID>119</PlantID>
+        <PlantPic>Burnet.jpg</PlantPic>
+        <ScientificName>
+            Sanguisorba minor
+        </ScientificName>
+    </Plants>
+    <Plants>
+        <Plant>Lupin</Plant>
+        <Companions>
+            Cucumber, Squash, Brassica, Spinach, Lettuce, Rosemary, Dill, Strawberry
+        </Companions>
+        <Incompatible>Tomato</Incompatible>
+        <Benefits>
+            Lupins make good companion plants for crops that need significant amounts of nitrogen in their soil. Attracts honeybees.
+            They can fix nitrogen from the atmosphere into ammonia via a rhizobium-root nodule symbiosis, fertilizing the soil for other plants.
+            The legume seeds of lupins are edible and have a full range of essential amino acids.
+        </Benefits>
+        <Type>Perennial</Type>
+        <Stars></Stars>
+        <PlantID>120</PlantID>
+        <PlantPic>Lupin.jpg</PlantPic>
+        <ScientificName>
+            Lupinus perennis
+        </ScientificName>
+    </Plants>
+</CompanionPlants>

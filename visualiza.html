@@ -1,0 +1,88 @@
+
+<template name="home">
+  <div class="row">
+  	<div class="col-md-6">
+      {{> companionplants_controller}}
+  	</div>
+  	<div class="col-md-6">
+      {{> companionplants_visjs}}
+  	</div>
+  </div>
+</template>
+
+<template name="companionplants_controller">
+  <h3>Visualiza <small>see the relasionships between plants</small></h3>
+  <p>
+    Choose one plant
+  </p>
+  <select class="form-control js-select-one-plant" >
+    {{#each get_plant}}
+      <option value="{{_id}}">{{Plant}} - {{ScientificName}}</option>
+    {{/each}}
+  </select>
+  <br/>
+  <p>
+    or
+  </p>
+  <div class="list-group">
+    <button class="list-group-item js-show-companions">Show all companion relations</button>
+    <button class="list-group-item js-show-incompatibles">Show all incompatible relations</button>
+  </div>
+  <i>(please be patient, as it takes a while to load the whole network)</i>
+</template>
+
+<template name="companionplants_visjs">
+  <div class="row">
+    <div class="col-md-12">
+      {{#if plant_selected}}<h3>{{get_plant_name}} <small>2 levels out</small></h3>{{/if}}
+      <ul class="list-group">
+        <li class="list-group-item">Color codes:</li>
+        <li class="list-group-item companion_color">is a companion plant</li>
+        <li class="list-group-item incompatible_color">is incompatible</li>
+        <li class="list-group-item node_has_edges_color">plant has registered companions/incompatibles</li>
+        <li class="list-group-item node_no_edges_color">plant has no registered companions/incompatibles</li>
+      </ul>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <div id="visjs">
+      </div>
+      <p><i>
+        scroll the mouse wheel to zoom in and out
+      </i></p>
+    </div>
+  </div>
+</template>
+
+<template name="about">
+  <div class="row">
+    <div class="col-md-12">
+      <h1>About</h1>
+      <p>
+        Companion planting is a practice where the gardener plants certain plants together that benefit eigther one or both plants.
+        Usually, companion plants are shown as lists. This visualisation is an attempt to give another view of the data.
+      </p>
+    </div>
+  </div>
+</template>
+
+<template name="credit">
+  <div class="row">
+    <div class="col-md-12">
+      <h1>Credit</h1>
+      This webpage is developed using the skills learned through the coursera course <a href="https://www.coursera.org/learn/responsive-website-examples/home/welcome">Responsive Website Tutorial and Examples</a>
+      <p>
+        The technology used is open source:
+      </p>
+      <ul>
+        <li><a href="https://www.meteor.com/">Meteor</a></li>
+        <li><a href="http://getbootstrap.com">Bootstrap</a></li>
+        <li><a href="https://github.com/almende/vis">Vis.js</a></li>
+      </ul>
+      <p>
+        Thank you to B. Hamilton for permission to use the data from <a href="http://www.battlezinc.com/CompanionPlants/Index">Zenful Nepenthes</a>
+      </p>
+    </div>
+  </div>
+</template>
